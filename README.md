@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>Software and Mobile Developer
+<br>Graduated in psychology, I was certified by Unity and Adobe a few years ago, I am a game (Unity) and application developer, always keeping an eye on code architecture patterns.  I have almost 10 years as a developer and 6 years of international experience in the area, as well as the ability to remain calm in stressful situations.  I recently worked successfully with communication, leadership and team management thanks to my knowledge in psychology, but I currently work as an Android developer.
+
+ What is most rewarding for me is having the opportunity to help people immerse themselves in the area through a social project that I have with some friends.
 
 
 ## 🌐 Socials:
